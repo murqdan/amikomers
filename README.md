@@ -7,4 +7,4 @@ backendnya. Website ini hanyalah projek pribadi yang berawal dari tugas kuliah y
 saya coba kembangkan sendiri untuk menambahkan beberapa fitur agar website ini bisa menjadi lebih baik lagi.
 
 Website ini masih jauh dari kata sempurna, maka dari itu kritik dan saran anda sangat membantu bagi kami.
-Jika anda ingin melihat website kami versi sebelumnya, silakan [klik disini](murqdan.github.io/amicomp/).
+Jika anda ingin melihat website kami versi sebelumnya, silakan [klik disini](https://murqdan.github.io/amicomp/).
