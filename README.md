@@ -1,6 +1,4 @@
-Mahasiswa kini lebih memilih cara yang praktis daripada harus keluar dari rumah untuk membeli perlengkapan komputer yang mereka butuhkan.
-Ditambah juga dengan adanya virus Covid-19 yang menyebabkan mahasiwa untuk belajar daring, maka dengan hadirnya website ini semoga
-dapat membantu mencari perlengkapan komputer bagi mahasiswa untuk mendukung kegiatan belajar ataupun kuliah online.
+Mahasiswa sekarang lebih memilih cara praktis daripada keluar rumah untuk membeli peralatan komputer yang diperlukan. Ditambah dengan adanya virus Covid-19 yang menyebabkan mahasiswa belajar secara online, kehadiran website ini diharapkan dapat membantu mencarikan peralatan komputer bagi mahasiswa untuk menunjang kegiatan belajar atau perkuliahan online.
 
 Tampilan frontend pada website ini dibangun menggunakan framework Vue.js, dan menggunakan framework Django untuk bagian
 backendnya. Website ini hanyalah projek pribadi yang berawal dari tugas kuliah yang kami kerjakan secara tim. Yang kemudian
