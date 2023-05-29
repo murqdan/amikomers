@@ -28,6 +28,7 @@ TAMPILAN UI APLIKASI
 
 
 -Kategori (laptop)
+
 ![image](https://github.com/murqdan/amikomers-vue/assets/66340211/b198063f-b8e6-4f86-a305-b32fa151cb73)
 
 
@@ -35,4 +36,5 @@ TAMPILAN UI APLIKASI
 
 
 -Detail barang
+
 ![image](https://github.com/murqdan/amikomers-vue/assets/66340211/7cc8998c-ba93-4a11-9f37-0d2c9d831336)
