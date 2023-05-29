@@ -9,14 +9,6 @@ Jika anda ingin melihat website kami versi sebelumnya, silakan [klik disini](htt
 
 TAMPILAN UI APLIKASI
 
--Logo
-
-![image](https://github.com/murqdan/amikomers-vue/assets/66340211/11b9a7cd-0929-49ca-a6c7-c65b7395aab7)
-
-
-
-
-
 
 -Tampilan utama
 
