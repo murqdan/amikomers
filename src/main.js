@@ -5,6 +5,6 @@ import store from './store';
 import axios from 'axios';
 
 // axios.defaults.baseURL = 'http://127.0.0.1:9000';
-axios.defaults.baseURL = 'https://amikomers-django.vercel.app';
+axios.defaults.baseURL = 'https://amikomers.vercel.app';
 
 createApp(App).use(store).use(router, axios).mount('#app');
