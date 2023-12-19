@@ -1,16 +1,13 @@
-Mahasiswa sekarang lebih memilih cara praktis daripada keluar rumah untuk membeli peralatan komputer yang dibutuhkan. Ditambah dengan adanya virus Covid-19 yang menyebabkan mahasiswa belajar secara online, kehadiran website ini diharapkan dapat membantu mencarikan peralatan komputer bagi mahasiswa amikom untuk menunjang kegiatan belajar atau perkuliahan online.
+Amikomers is an e-commerce platform that focuses on electronic goods, especially for PCs. In response to the pandemic situation and learning needs increasingly urgent online, we created Amikomers. This platform aims to provide solutions to students, especially university students Amikom to enable them to easily obtain the computer equipment needed for online lectures.
 
-Tampilan frontend pada website ini dibangun menggunakan framework Vue.js, dan menggunakan framework Django untuk bagian
-backendnya. Website ini hanyalah projek pribadi yang berawal dari tugas kuliah yang kami kerjakan secara tim. Yang kemudian
-saya coba kembangkan sendiri untuk menambahkan beberapa fitur agar website ini bisa menjadi lebih baik lagi.
+The Amikomers project is a personal project that I developed from the project Amicomp, which is a web programming course project in the 4th semester developed by 6 of my college classmates and myself as a team. Project Amicomp can be accessed [here](https://murqdan.github.io/amicomp/).
 
-Website ini masih jauh dari kata sempurna, maka dari itu kritik dan saran anda sangat membantu bagi kami.
-Jika anda ingin melihat website kami versi sebelumnya, silakan [klik disini](https://murqdan.github.io/amicomp/).
+I tried to develop Amikomers myself to add several features such as login, cart and payment features so that this e-commerce website can to be better. Besides that, in terms of Amikomers website interface design, I designed it to be similar to the Amikom campus website, namely amikom.ac.id.
 
-TAMPILAN UI APLIKASI
+UI DISPLAY
 
 
--Tampilan utama
+-Home
 
 ![image](https://github.com/murqdan/amikomers-vue/assets/66340211/8888f541-2c5c-464b-b60d-afe5aa817972)
 
@@ -19,7 +16,7 @@ TAMPILAN UI APLIKASI
 
 
 
--Kategori (laptop)
+-Category (laptop)
 
 ![image](https://github.com/murqdan/amikomers-vue/assets/66340211/b198063f-b8e6-4f86-a305-b32fa151cb73)
 
@@ -27,6 +24,6 @@ TAMPILAN UI APLIKASI
 
 
 
--Detail barang
+-Item details
 
 ![image](https://github.com/murqdan/amikomers-vue/assets/66340211/7cc8998c-ba93-4a11-9f37-0d2c9d831336)
